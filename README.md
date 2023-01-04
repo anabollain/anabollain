@@ -1,4 +1,4 @@
-✨ # Front-end Developer + Architect + Interior Designer
+## Front-end Developer + Architect + Interior Designer ✨
 
 
 Hi! I'm Ana, a former architect discovering a new way of shaping and constructing the world through technology. Hope you enjoy my projects as much as I have and continue doing. You will see some of them are still in progress, as I love to create and design while searching for new tools and interesting exercises. 
