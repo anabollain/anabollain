@@ -11,7 +11,9 @@ Hi! I'm Ana, a former architect discovering a new way of shaping and constructin
 - 📫 How to reach me: 
 - ⚡ Fun fact: I love graphic design and I'm currently working on a clothing brand project
 
-## Companies I've worked for in the Architecture and Interior Design world, from which I've developed many organizational, creative and structural skills that I'm positive will help me in this new adventure:
+## Companies I've worked for in the Architecture and Interior Design world...
+
+...from which I've developed many organizational, creative and structural skills that I'm positive will help me in this new adventure:
 
 - 🚀 Freelance. Remote
 - 🧱 Estudi Biga. Barcelona - https://www.biga.cat/
