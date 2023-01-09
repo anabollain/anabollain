@@ -23,8 +23,7 @@ Hi! I'm Ana, a former architect discovering a new way of shaping and constructin
 
 ## Technical Skills
 
-- ![image](https://user-images.githubusercontent.com/104984166/211359331-a7e8b251-8fb8-48c4-b857-71569e545816.png)
-HyperText Markup Language: **HTML5**.
+- HyperText Markup Language: **HTML5**.
 - JavaScript XML: **JSX**.
 - **CSS3** and CSS Pre-processor **Sass** : Responsive Design · Variables, mixins and functions · Flexbox · CSS Grid · Box model · Position: relative and absolute · Transitions ·     Animations
 - **Javascript** : Conditionals · Events · Functions · Objects · Arrays and methods · Loops · Local Storage
