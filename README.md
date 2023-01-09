@@ -21,9 +21,17 @@ Hi! I'm Ana, a former architect discovering a new way of shaping and constructin
 - 🏠 ADP. Paris - https://www.atelierdupont.fr/
 - 🏙️ AWP. Paris - https://awp.fr/
 
-## Hot links to practice
+## Technical Skills
 
-- https://www.codewars.com/
-- https://code.org/hourofcode/overview
-- https://retosdeprogramacion.com/semanales2022
-
+- ![image](https://user-images.githubusercontent.com/104984166/211359331-a7e8b251-8fb8-48c4-b857-71569e545816.png)
+HyperText Markup Language: **HTML5**.
+- JavaScript XML: **JSX**.
+- **CSS3** and CSS Pre-processor **Sass** : Responsive Design · Variables, mixins and functions · Flexbox · CSS Grid · Box model · Position: relative and absolute · Transitions ·     Animations
+- **Javascript** : Conditionals · Events · Functions · Objects · Arrays and methods · Loops · Local Storage
+- JavaScript Framework **React Native** : SPA · Components · State variables · Props and Proptypes · Lifting · React-router-dom · 
+- Developing a basic **REST API** with **Node JS** and **Express JS**
+- Task Automation: **Gulp**.
+- **Git** Version Control, **GitHub** and **Railway**.
+- Development tools: Visual Studio Code, Command shell, Zeplin. 
+- Chrome DevTools for **debugging**. 
+- Communication skills and team work: **Slack**, **Agile** philosophy and **Scrum** framework.
