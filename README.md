@@ -32,6 +32,6 @@ Hi! I'm Ana, a former architect discovering a new way of shaping and constructin
 - **SQLite** for creating and managing **databases** and EJS **Template Engine**.
 - Task Automation: **Gulp**.
 - **Git** Version Control, **GitHub** and **Railway**.
-- Development tools: Visual Studio Code, Command shell, Zeplin. 
+- Development tools: **Visual Studio Code**, **Command shell**, **Zeplin**. 
 - Chrome DevTools for **debugging**. 
 - Communication skills and team work: **Slack**, **Agile** philosophy and **Scrum** framework.
