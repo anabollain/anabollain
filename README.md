@@ -8,7 +8,7 @@ Hi! I'm Ana, a former architect discovering a new way of shaping and constructin
 - 🌱 I’m currently widening my knowledge of React and Node JS
 - 👯 I’m looking to collaborate on new challenges and side projects
 - 💬 Will be delighted to help if any of you have questions
-- 📫 How to reach me: 
+- 📫 How to reach me: * [check-my-linkedin] (https://www.linkedin.com/in/ana-bollain/)
 - ⚡ Fun fact: I love graphic design and I'm currently working on a clothing brand project
 
 ## Companies I've worked for in the Architecture and Interior Design world...
