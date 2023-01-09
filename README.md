@@ -27,8 +27,9 @@ Hi! I'm Ana, a former architect discovering a new way of shaping and constructin
 - JavaScript XML: **JSX**.
 - **CSS3** and CSS Pre-processor **Sass** : Responsive Design · Variables, mixins and functions · Flexbox · CSS Grid · Box model · Position: relative and absolute · Transitions ·     Animations
 - **Javascript** : Conditionals · Events · Functions · Objects · Arrays and methods · Loops · Local Storage
-- JavaScript Framework **React Native** : SPA · Components · State variables · Props and Proptypes · Lifting · React-router-dom · 
+- JavaScript Framework **React Native** : SPA · Components · State variables · Props and Proptypes · Lifting · React-router-dom · Libraries
 - Developing a basic **REST API** with **Node JS** and **Express JS**
+- **SQLite** for creating and managing **databases** and EJS **Template Engine**.
 - Task Automation: **Gulp**.
 - **Git** Version Control, **GitHub** and **Railway**.
 - Development tools: Visual Studio Code, Command shell, Zeplin. 
