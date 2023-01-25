@@ -5,10 +5,10 @@ Hi! I'm Ana, a former architect discovering a new way of shaping and constructin
 
 - 🎉 I've just finished a Front-end Development Bootcamp in Adalab
 - 🔭 I'm looking for a job to gain experience and continue learning
-- 🌱 I’m currently widening my knowledge of React and Node JS
+- 🌱 I’m currently widening my knowledge of Javascript, React and Node JS
 - 👯 I’m looking to collaborate on new challenges and side projects
 - 💬 Will be delighted to help if any of you have questions
-- 📫 How to reach me: * [check-my-linkedin] (https://www.linkedin.com/in/ana-bollain/)
+- 📫 How to reach me: [Check my linkedin](https://www.linkedin.com/in/ana-bollain/)
 - ⚡ Fun fact: I love graphic design and I'm currently working on a clothing brand project
 
 ## Companies I've worked for in the Architecture and Interior Design world...
@@ -35,3 +35,9 @@ Hi! I'm Ana, a former architect discovering a new way of shaping and constructin
 - Development tools: **Visual Studio Code**, **Command shell**, **Zeplin**. 
 - Chrome DevTools for **debugging**. 
 - Communication skills and team work: **Slack**, **Agile** philosophy and **Scrum** framework.
+
+## What I'm currently learning 👀
+
+- [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [Code Wars](https://www.codewars.com/)
